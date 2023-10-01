@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (_wfopen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  _wfopen.cpp
+  The contents of <string_view> are available only with C++17 or later.
+  Generating code
+D:\Cidia Project 2023\_wfopen\_wfopen\_wfopen.cpp(140): warning C4715: '__fastcall_block': not all control paths return a value
+D:\Cidia Project 2023\_wfopen\_wfopen\_wfopen.cpp(124): warning C4715: '__block': not all control paths return a value
+D:\Cidia Project 2023\_wfopen\_wfopen\_wfopen.cpp(109): warning C4715: '__spoof': not all control paths return a value
+  10 of 115 functions ( 8.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  _wfopen.vcxproj -> D:\Cidia Project 2023\_wfopen\x64\Release\cidia _wfopen spoofer.exe
